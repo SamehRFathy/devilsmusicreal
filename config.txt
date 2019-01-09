@@ -3,4 +3,4 @@ prefix=$
 game=Devils Community
 stayinchannel=true
 songinstatus=false
-token=NTMyMzg1NTA5NzA0NzI4NTg3.DxbuzQ.ZYdvGPrsgA5cXvan46JC2IcWo58
+token=BOT_TOKEN
