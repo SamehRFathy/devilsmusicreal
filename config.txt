@@ -1,6 +1,6 @@
 owner=430369343059263490
-prefix=$
-game=Devils Community
+prefix=&
+game=Music
 stayinchannel=true
 songinstatus=false
-token=BOT_TOKEN
+token=NTMyMzg1NTA5NzA0NzI4NTg3.DxbyIA.QmJxwJ02s9whXObdVS9YXUZuQkk
